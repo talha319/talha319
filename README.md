@@ -148,14 +148,14 @@ Currently at **My Planet Technology Limited (Malta)**, I lead full-stack develop
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talha-ch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-ch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talha319&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha319&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=talha-ch&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=talha319&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
