@@ -10,7 +10,7 @@
 
 <!-- Profile Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Talha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-ch/)
-[![Email](https://img.shields.io/badge/Email-m.talha319%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.talha319@gmail.com)
+[![Email](https://img.shields.io/badge/Email-m.talhach319%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.talha319@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Mosta%2C%20Malta-00BCD4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Phone](https://img.shields.io/badge/Phone-%2B356%2099317080-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+35699317080)
 
